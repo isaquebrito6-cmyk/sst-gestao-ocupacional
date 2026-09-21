@@ -1,1 +1,0 @@
-python criar_zip_frontend.py
